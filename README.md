@@ -1,6 +1,6 @@
 <p>Olá  👋</p>
 <div style="width:100%;display:flex;justify-content:center;gap: 0 3em;">
-    <img style="margin-right:2em" height="160em" src="https://github-readme-stats.vercel.app/api?username=EversonHenr1&show_icons=true&theme=graywhite&include_all_commits=false&count_private=true"/>
+    <img style="margin-right:200px" height="160em" src="https://github-readme-stats.vercel.app/api?username=EversonHenr1&show_icons=true&theme=graywhite&include_all_commits=false&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonHenr1&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
