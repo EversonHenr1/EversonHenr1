@@ -1,7 +1,9 @@
 ### Hi there 👋
+<div style="display:flex;justify-content:center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?  username=EversonHenr1&show_icons=true&theme=graywhite&include_all_commits=false&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonHenr1&layout=compact&langs_count=7&theme=graywhite"/>
+</div>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=EversonHenr1&show_icons=true&theme=graywhite&include_all_commits=false&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonHenr1&layout=compact&langs_count=7&theme=graywhite"/>
 
 <!--
 **EversonHenr1/EversonHenr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
