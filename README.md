@@ -5,7 +5,7 @@
 </div>
 
 
-<div style="padding: 0 6em; position:absolute; bottom:15em; background-color:black;">
+<div style="background-color:black;">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EversonHenr1&show_icons=true&theme=graywhite&include_all_commits=false&count_private=true" style="margin-right:2em"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonHenr1&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
