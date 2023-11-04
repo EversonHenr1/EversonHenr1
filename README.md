@@ -18,7 +18,7 @@
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-   ![Ilustração de computador]("https://github.com/EversonHenr1/EversonHenr1/blob/main/desktop%20computer-bro.svg")
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 
