@@ -1,5 +1,5 @@
 # Everson Henrique da Silva
-<img src="(https://github.com/EversonHenr1/EversonHenr1/blob/Dev/desktop%20computer-bro.svg)" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/EversonHenr1/EversonHenr1/blob/Dev/desktop%20computer-bro.svg" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 <p align="left"> 
