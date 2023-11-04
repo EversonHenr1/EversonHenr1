@@ -1,7 +1,11 @@
 
 # Hello world!
+<div>
+    <h1>Everson Henrique</h1>
+    <img width="200px" src="https://github.com/EversonHenr1/EversonHenr1/blob/main/desktop%20computer-bro.svg"/>
+</div>
 
-<img width="200px" src="https://github.com/EversonHenr1/EversonHenr1/blob/main/desktop%20computer-bro.svg"/>
+
 
 
 </div>
