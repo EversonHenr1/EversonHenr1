@@ -1,8 +1,7 @@
 
-![Texto alternativo](https://github.com/EversonHenr1/EversonHenr1/blob/main/desktop%20computer-bro.svg)
 
 
-
+<img src="https://github.com/EversonHenr1/EversonHenr1/blob/main/desktop%20computer-bro.svg"/>
 </div>
 
 
