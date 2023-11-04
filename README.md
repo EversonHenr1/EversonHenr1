@@ -1,5 +1,5 @@
 
-<div styles=""padding: 80px;"">
+<div styles="padding: 80px;">
 
     <h1 styles="color:#FF725E;">Everson Henrique</h1>
     <p align="left">ola</p>
