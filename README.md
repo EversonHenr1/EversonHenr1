@@ -1,7 +1,7 @@
 
 <div styles="display:flex;">
     <h1 styles="color:#FF725E;">Everson Henrique</h1>
-    <p>ola</p>
+    <p align="left">ola</p>
     <img align="right" width="200px" src="https://github.com/EversonHenr1/EversonHenr1/blob/main/desktop%20computer-bro.svg"/>
 </div>
 
