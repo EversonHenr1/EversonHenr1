@@ -1,6 +1,6 @@
 # Everson Henrique da Silva
 
-<div>
+
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
@@ -19,7 +19,7 @@
 </p>
 
    ![Ilustração de computador]("https://github.com/EversonHenr1/EversonHenr1/blob/main/desktop%20computer-bro.svg")
-</div>
+
 
 
 
