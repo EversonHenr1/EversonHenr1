@@ -1,7 +1,6 @@
 
-# Hello world!
 <div style="display:flex">
-    <h1>Everson Henrique</h1>
+    <h1 style="color:#FF725E">Everson Henrique</h1>
     <img width="200px" src="https://github.com/EversonHenr1/EversonHenr1/blob/main/desktop%20computer-bro.svg"/>
 </div>
 
