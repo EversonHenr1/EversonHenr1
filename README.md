@@ -1,6 +1,25 @@
 # Everson Henrique da Silva
 
-<span style="color:#232134;">Ola</span>
+<div>
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
+
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+    <img align="right" width="200px" src="https://github.com/EversonHenr1/EversonHenr1/blob/main/desktop%20computer-bro.svg">
+</div>
 
 
 
