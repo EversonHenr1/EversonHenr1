@@ -1,5 +1,5 @@
 <div align="center" >
- <img height="40px" src="https://img.shields.io/static/v1?label=WEB&message=Everson_Henrique_Silva&color=92E3A9&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+ <img height="40px" src="https://img.shields.io/static/v1?label=WEB&message=Everson_Henrique_Silva&color=45EDC9&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 </div>
 
 
