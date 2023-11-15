@@ -1,14 +1,15 @@
 
-# <h1 align="center"> Everson Henrique da Silva </h1>
+#  Everson Henrique da Silva 
 
-<br/>
 
+
+<br>
 
 <img src="https://github.com/EversonHenr1/EversonHenr1/blob/main/greenPC.svg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" height="350px" align="right">
-<br/>
+<br>
 
 <p align="left"> 
- 💼 Estagiario em <strong>Desenvolvimento Web</strong> && estudante de <strong>Analise e Desenvolvimento</strong>.<br>
+ 💼 Estagiario em <strong>Desenvolvimento Web</strong> && Estudante de <strong>Analise e Desenvolvimento</strong>.<br>
 </p>
 <br>
 <p align="left">
