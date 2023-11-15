@@ -1,6 +1,14 @@
-<h1>Everson Henrique da Silva</h1>
+
 <div>
-    <p style="color:red;">Ola</p>
+    <p align="center"> E ai galerinha!🌱 </p>
+</div>
+
+##
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EversonHenr1&show_icons=true&theme=vue&include_all_commits=false&count_private=true"/>
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonHenr1&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
 
