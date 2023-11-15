@@ -1,5 +1,7 @@
+<div align="center" >
+ <img height="50px" src="https://img.shields.io/static/v1?label=WEB&message=Everson_Henrique_Silva&color=92E3A9&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+</div>
 
-<h1 align="center"> Everson Henrique da Silva </h1>
 
 
 <br>
