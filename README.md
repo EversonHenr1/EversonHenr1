@@ -4,7 +4,7 @@
 <br/>
 ##
 
-<img src="https://github.com/EversonHenr1/EversonHenr1/blob/main/desktop%20computer-bro.svg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/EversonHenr1/EversonHenr1/blob/main/greenPC" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
