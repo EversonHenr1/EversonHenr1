@@ -2,10 +2,9 @@
 <h1 align="center"> Everson Henrique da Silva </h1>
 
 
-
 <br>
 
-<img src="https://github.com/EversonHenr1/EversonHenr1/blob/main/greenPC.svg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" height="350px" align="right">
+<img src="https://github.com/EversonHenr1/EversonHenr1/blob/main/greenPC.svg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" height="330px" align="right">
 <br>
 
 <p align="left"> 
