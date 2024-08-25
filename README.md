@@ -14,7 +14,7 @@
 </p>
 <br>
 <p align="left">
- <strong>🦄 Linguagens && frameworks:</strong>
+ <strong>🖥 Linguagens && frameworks:</strong>
 </p>
 
 <p align="left">
@@ -25,14 +25,14 @@
 <br>
 
 <p align="left">
-  💌 <strong>Contato :</strong> 
+  📱 <strong>Contato :</strong> 
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eversonhenriquepro781@gmail.com" title="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eversonhenriquepro781@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-73eeaf?style=flat-square&labelColor=73eeaf0&logo=gmail&logoColor=gray&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
-  <a href="https://linkedin.com/in/everson-henrique-da-silva" title="LinkedIn">
+  <a href="https://linkedin.com/in/everson-henrique-da-silva" target="_blank"  title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-73eeaf?style=flat-square&logo=Linkedin&logoColor=gray&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
 
