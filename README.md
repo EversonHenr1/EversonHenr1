@@ -10,7 +10,7 @@
 <br>
 
 <p align="left"> 
- 💼 Estagiario em <strong>Desenvolvimento Web</strong> && Estudante de <strong>Analise e Desenvolvimento</strong>.<br>
+ 💼 <strong>Desenvolvedor Web Full Stack</strong><br>
 </p>
 <br>
 <p align="left">
@@ -25,15 +25,15 @@
 <br>
 
 <p align="left">
-  💌 <strong>Contato :</strong> ⤵️
+  💌 <strong>Contato :</strong> 
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-73eeaf?style=flat-square&labelColor=73eeaf0&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eversonhenriquepro781@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-73eeaf?style=flat-square&labelColor=73eeaf0&logo=gmail&logoColor=gray&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
   <a href="https://linkedin.com/in/everson-henrique-da-silva" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-73eeaf?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-73eeaf?style=flat-square&logo=Linkedin&logoColor=gray&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
 
 ##
