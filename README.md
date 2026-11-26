@@ -13,55 +13,30 @@
 
 Sou desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web e mobile, APIs e soluções em nuvem.
 
-Busco desenvolver soluções escaláveis, organizadas e de fácil manutenção, aplicando boas práticas de programação, arquitetura de software e metodologias de desenvolvimento.
+Busco desenvolver soluções escaláveis, organizadas e de fácil manutenção, aplicando boas práticas de programação e arquitetura de software.
 
-Possuo experiência na utilização de agentes de inteligência artificial aplicados ao desenvolvimento de software. Estou constantemente aprimorando meus conhecimentos, explorando novas tecnologias e buscando evolução profissional.
+Possuo experiência com agentes de inteligência artificial aplicados ao desenvolvimento de software e estou constantemente buscando aprimorar meus conhecimentos, explorar novas tecnologias e evoluir profissionalmente.
 
 <br clear="all">
 
 ---
 
-### 💻 Linguagens de programação e desenvolvimento web
+### 💻 Tecnologias e competências técnicas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,js,dart,html,css" alt="C#, JavaScript, Dart, HTML e CSS"/>
-</p>
-
-### 🧩 Frameworks e bibliotecas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter,bootstrap,jquery" alt=".NET, Flutter, Bootstrap e jQuery"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,dart,flutter,html,css,bootstrap,jquery,postgres,aws&perline=11" alt="Principais tecnologias"/>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
-</p>
-
-### 🗄️ Banco de dados
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL"/>
-</p>
-
-### ☁️ Cloud e infraestrutura
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS_SAM-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAM"/>
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
-  <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" alt="Amazon SQS"/>
-  <img src="https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=for-the-badge" alt="Amazon SNS"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="Amazon CloudWatch"/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/AWS_SAM-232F3E?style=flat-square" alt="AWS SAM"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+  <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square" alt="Amazon SQS"/>
+  <img src="https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=flat-square" alt="Amazon SNS"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" alt="Amazon CloudWatch"/>
 </p>
 
 ### 🏗️ Arquitetura de software e metodologias
@@ -82,13 +57,7 @@ Possuo experiência na utilização de agentes de inteligência artificial aplic
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
 </p>
 
-Experiência na utilização de agentes de IA para auxiliar na especificação de requisitos, planejamento, implementação, revisão de código e manutenção de software.
-
-### 🛠️ Ferramentas de desenvolvimento
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" alt="Visual Studio, VS Code, Git, GitHub e Postman"/>
-</p>
+Utilização de agentes de IA para especificação, planejamento, implementação, revisão de código e manutenção de software.
 
 ### 🎯 Habilidades comportamentais
 
@@ -109,10 +78,11 @@ Experiência na utilização de agentes de IA para auxiliar na especificação d
 
 <p align="left">
   <a href="mailto:eversonhenriquepro781@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45px" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/everson-henrique-da-silva">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn"/>
   </a>
 </p>
 
