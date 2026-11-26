@@ -1,73 +1,144 @@
-<div align="center" >
- <img height="40px" src="https://img.shields.io/static/v1?label=WEB&message=Everson_Henrique_Silva&color=73EEAF&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
-</div>
-
-
-
-<br>
-
-<img src="https://github.com/EversonHenr1/EversonHenr1/blob/main/greenPC.svg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" height="330px" align="right">
-<br>
-
-<p align="left"> 
- 💼 <strong>Desenvolvedor Web Full Stack</strong><br>
-</p>
-<br>
-<p align="left">
- <strong>🖥 Linguagens && frameworks:</strong>
-</p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,react,js,bootstrap,css,jquery" />
-  </a>
-</p>
-<br>
-
-<p align="left">
-  📱 <strong>Contato :</strong> 
-</p>
-
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eversonhenriquepro781@gmail.com" target="_blank" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-73eeaf?style=flat-square&labelColor=73eeaf0&logo=gmail&logoColor=gray&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-
-  <a href="https://linkedin.com/in/everson-henrique-da-silva" target="_blank"  title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-73eeaf?style=flat-square&logo=Linkedin&logoColor=gray&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</p>
-
-##
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EversonHenr1&show_icons=true&theme=vue&include_all_commits=false&count_private=true"/>
+  <img src="https://img.shields.io/badge/Everson_Henrique_da_Silva-73EEAF?style=for-the-badge&logo=github&logoColor=black" alt="Everson Henrique da Silva"/>
+  
+  <h3>Desenvolvedor Full Stack | .NET | Web & Mobile</h3>
 </div>
 
+---
 
+<img src="https://github.com/EversonHenr1/EversonHenr1/blob/main/greenPC.svg" alt="Ilustração de um computador" width="340px" align="right">
 
+### 👨‍💻 Sobre mim
 
+Sou desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web, mobile, APIs e soluções em nuvem.
 
+Busco desenvolver soluções escaláveis, organizadas e de fácil manutenção, aplicando boas práticas de programação e arquitetura de software.
 
+Possuo experiência na utilização de agentes de inteligência artificial para desenvolvimento de software e estou constantemente buscando aprimorar meus conhecimentos e explorar novas tecnologias.
 
+- 💼 Desenvolvimento Full Stack
+- 🏗️ Arquitetura de software
+- ☁️ Soluções em nuvem
+- 🤖 Desenvolvimento auxiliado por IA
+- 📚 Aprendizado contínuo
 
+<br clear="all">
 
+---
 
-<!--
-<div style="background-color:black;">
-    
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonHenr1&layout=compact&langs_count=7&theme=graywhite"/>
+### 💻 Linguagens de programação e desenvolvimento web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,js,dart,html,css" />
+</p>
+
+- C#
+- JavaScript
+- Dart
+- HTML5 e CSS3
+
+### 🧩 Frameworks e bibliotecas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,bootstrap,jquery" />
+</p>
+
+- .NET
+- ASP.NET MVC
+- Entity Framework Core
+- Flutter
+- Bootstrap
+- jQuery
+
+### 🗄️ Banco de dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+- SQL
+- PostgreSQL
+
+### ☁️ Cloud e infraestrutura
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS_SAM-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/>
+</p>
+
+### 🏗️ Arquitetura de software e metodologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean_Architecture-73EEAF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SOLID-73EEAF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain_Driven_Design-73EEAF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spec_Driven_Development-73EEAF?style=for-the-badge"/>
+</p>
+
+- Clean Architecture
+- Princípios SOLID
+- Domain-Driven Design (DDD)
+- Spec-Driven Development (SDD)
+- GitHub Spec Kit
+
+### 🤖 Inteligência artificial e agentes de desenvolvimento
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+</p>
+
+Utilização de agentes de IA para auxiliar na especificação, planejamento, implementação, revisão e manutenção de software.
+
+### 🛠️ Ferramentas de desenvolvimento
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
+</p>
+
+### 🎯 Habilidades comportamentais
+
+- Proatividade
+- Organização
+- Foco e comprometimento
+- Liderança
+- Resolução de problemas
+- Adaptabilidade e aprendizado contínuo
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=EversonHenr1&show_icons=true&theme=vue&count_private=true&hide_border=true"/>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonHenr1&layout=compact&theme=vue&hide_border=true"/>
 </div>
--->
-<!--
-**EversonHenr1/EversonHenr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Entre em contato
+
+<p align="left">
+  <a href="mailto:eversonhenriquepro781@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-73EEAF?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/everson-henrique-da-silva">
+    <img src="https://img.shields.io/badge/LinkedIn-73EEAF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <i>Sempre em busca de novos conhecimentos, desafios e oportunidades de evolução profissional.</i>
+</div>
