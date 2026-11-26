@@ -17,12 +17,6 @@ Busco desenvolver soluções escaláveis, organizadas e de fácil manutenção, 
 
 Possuo experiência na utilização de agentes de inteligência artificial para desenvolvimento de software e estou constantemente buscando aprimorar meus conhecimentos e explorar novas tecnologias.
 
-- 💼 Desenvolvimento Full Stack
-- 🏗️ Arquitetura de software
-- ☁️ Soluções em nuvem
-- 🤖 Desenvolvimento auxiliado por IA
-- 📚 Aprendizado contínuo
-
 <br clear="all">
 
 ---
