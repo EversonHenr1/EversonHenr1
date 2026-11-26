@@ -26,12 +26,6 @@ Possuo experiência na utilização de agentes de inteligência artificial para 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,js,dart,html,css" />
 </p>
-
-- C#
-- JavaScript
-- Dart
-- HTML5 e CSS3
-
 ### 🧩 Frameworks e bibliotecas
 
 <p align="left">
