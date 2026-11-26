@@ -26,27 +26,18 @@ Possuo experiência na utilização de agentes de inteligência artificial para 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,js,dart,html,css" />
 </p>
+
 ### 🧩 Frameworks e bibliotecas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,flutter,bootstrap,jquery" />
 </p>
 
-- .NET
-- ASP.NET MVC
-- Entity Framework Core
-- Flutter
-- Bootstrap
-- jQuery
-
 ### 🗄️ Banco de dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=sql,postgres" />
 </p>
-
-- SQL
-- PostgreSQL
 
 ### ☁️ Cloud e infraestrutura
 
