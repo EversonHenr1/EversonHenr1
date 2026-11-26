@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Everson_Henrique_da_Silva-73EEAF?style=for-the-badge&logo=github&logoColor=black" alt="Everson Henrique da Silva"/>
+  <img src="https://img.shields.io/badge/Everson_Henrique_da_Silva-73EEAF?style=for-the-badge&logo=github&logoColor=263238" alt="Everson Henrique da Silva"/>
 
   <h3>Desenvolvedor Full Stack | .NET | Web & Mobile</h3>
 </div>
 
 ---
 
-<img src="https://github.com/EversonHenr1/EversonHenr1/blob/main/greenPC.svg" alt="Ilustração de um computador" width="340px" align="right">
+<h3 align="center">👨‍💻 Sobre mim</h3>
 
-### 👨‍💻 Sobre mim
+<img src="https://github.com/EversonHenr1/EversonHenr1/raw/main/greenPC.svg" alt="Ilustração de um computador" width="340px" align="right">
 
 Sou desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web e mobile, APIs e soluções em nuvem.
 
@@ -20,7 +20,7 @@ Estou constantemente buscando aprimorar meus conhecimentos, explorar novas tecno
 
 ---
 
-### 💻 Tecnologias e competências técnicas
+<h3 align="center">💻 Tecnologias e competências técnicas</h3>
 
 <div align="center">
 
@@ -38,62 +38,53 @@ Estou constantemente buscando aprimorar meus conhecimentos, explorar novas tecno
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-21262D?style=flat-square&logo=dotnet&logoColor=AB8BFF" alt="ASP.NET MVC"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-21262D?style=flat-square&logo=dotnet&logoColor=AB8BFF" alt="Entity Framework Core"/>
-  <img src="https://img.shields.io/badge/SQL_Server-21262D?style=flat-square" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/AWS_SAM-21262D?style=flat-square" alt="AWS SAM"/>
-  <img src="https://img.shields.io/badge/AWS_Lambda-21262D?style=flat-square&logo=awslambda&logoColor=FF9900" alt="AWS Lambda"/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-263238?style=flat-square&logo=dotnet&logoColor=73EEAF" title="ASP.NET MVC" alt="ASP.NET MVC"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-263238?style=flat-square&logo=dotnet&logoColor=73EEAF" title="Entity Framework Core" alt="Entity Framework Core"/>
+  <img src="https://img.shields.io/badge/SQL_Server-263238?style=flat-square" title="SQL Server" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/AWS_SAM-263238?style=flat-square" title="AWS SAM" alt="AWS SAM"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-263238?style=flat-square&logo=awslambda&logoColor=73EEAF" title="AWS Lambda" alt="AWS Lambda"/>
 
   <br>
 
-  <img src="https://img.shields.io/badge/Amazon_S3-21262D?style=flat-square&logo=amazons3&logoColor=569A31" alt="Amazon S3"/>
-  <img src="https://img.shields.io/badge/Amazon_SQS-21262D?style=flat-square" alt="Amazon SQS"/>
-  <img src="https://img.shields.io/badge/Amazon_SNS-21262D?style=flat-square" alt="Amazon SNS"/>
-  <img src="https://img.shields.io/badge/CloudWatch-21262D?style=flat-square" alt="Amazon CloudWatch"/>
-
-</div>
-
-### 🏗️ Arquitetura de software e metodologias
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Clean_Architecture-21262D?style=for-the-badge&logoColor=73EEAF" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/DDD-21262D?style=for-the-badge" title="Domain-Driven Design" alt="Domain-Driven Design"/>
-  <img src="https://img.shields.io/badge/SOLID-21262D?style=for-the-badge" alt="SOLID"/>
+  <img src="https://img.shields.io/badge/Amazon_S3-263238?style=flat-square&logo=amazons3&logoColor=73EEAF" title="Amazon S3" alt="Amazon S3"/>
+  <img src="https://img.shields.io/badge/Amazon_SQS-263238?style=flat-square" title="Amazon SQS" alt="Amazon SQS"/>
+  <img src="https://img.shields.io/badge/Amazon_SNS-263238?style=flat-square" title="Amazon SNS" alt="Amazon SNS"/>
+  <img src="https://img.shields.io/badge/CloudWatch-263238?style=flat-square" title="Amazon CloudWatch" alt="Amazon CloudWatch"/>
 
   <br>
 
-  <img src="https://img.shields.io/badge/Spec--Driven_Development-21262D?style=for-the-badge" alt="Spec-Driven Development"/>
-  <img src="https://img.shields.io/badge/GitHub_Spec_Kit-21262D?style=for-the-badge&logo=github&logoColor=73EEAF" alt="GitHub Spec Kit"/>
-
-</div>
-
-### 🤖 Inteligência artificial e agentes de desenvolvimento
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Claude_Code-21262D?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/OpenAI_Codex-21262D?style=for-the-badge&logo=openai&logoColor=73EEAF" alt="OpenAI Codex"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-21262D?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Claude_Code-263238?style=flat-square&logo=claude&logoColor=73EEAF" title="Claude Code" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-263238?style=flat-square&logo=openai&logoColor=73EEAF" title="OpenAI Codex" alt="OpenAI Codex"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-263238?style=flat-square&logo=githubcopilot&logoColor=73EEAF" title="GitHub Copilot" alt="GitHub Copilot"/>
 
 </div>
 
 ---
 
-### 📫 Entre em contato
+<h3 align="center">🏗️ Arquitetura de software e metodologias</h3>
 
 <div align="center">
+
+  <img src="https://img.shields.io/badge/Clean_Architecture-73EEAF?style=flat-square" title="Clean Architecture" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Domain--Driven_Design_(DDD)-73EEAF?style=flat-square" title="Domain-Driven Design" alt="DDD"/>
+  <img src="https://img.shields.io/badge/SOLID-73EEAF?style=flat-square" title="Princípios SOLID" alt="SOLID"/>
+  <img src="https://img.shields.io/badge/Spec--Driven_Development_(SDD)-73EEAF?style=flat-square" title="Spec-Driven Development" alt="SDD"/>
+  <img src="https://img.shields.io/badge/GitHub_Spec_Kit-73EEAF?style=flat-square&logo=github&logoColor=263238" title="GitHub Spec Kit" alt="GitHub Spec Kit"/>
+
+</div>
+
+---
+
+<h3 align="center">📫 Entre em contato</h3>
+
+<div align="center">
+
   <a href="mailto:eversonhenriquepro781@gmail.com" title="Enviar e-mail">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/everson-henrique-da-silva" title="Acessar meu LinkedIn">
+  <a href="https://linkedin.com/in/everson-henrique-da-silva" title="Acessar meu perfil no LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
-</div>
 
----
-
-<div align="center">
-  <i>Sempre em busca de novos conhecimentos, desafios e oportunidades de evolução profissional.</i>
 </div>
