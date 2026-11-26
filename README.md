@@ -105,14 +105,6 @@ Experiência na utilização de agentes de IA para auxiliar na especificação d
 
 ---
 
-### 📈 Atividade e contribuições
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EversonHenr1&bg_color=0d1117&color=73eeaf&line=73eeaf&point=ffffff&area=true&hide_border=true&area_color=73eeaf" alt="Gráfico de contribuições do GitHub"/>
-</div>
-
----
-
 ### 📫 Entre em contato
 
 <p align="left">
