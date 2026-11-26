@@ -80,14 +80,10 @@ Utilização de agentes de IA para especificação, planejamento, implementaçã
   <a href="mailto:eversonhenriquepro781@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45px" alt="Gmail"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/everson-henrique-da-silva">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45px" alt="LinkedIn"/>
   </a>
 </p>
 
----
 
-<div align="center">
-  <i>Sempre em busca de novos conhecimentos, desafios e oportunidades de evolução profissional.</i>
-</div>
