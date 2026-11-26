@@ -36,7 +36,7 @@ Possuo experiência na utilização de agentes de inteligência artificial para 
 ### 🗄️ Banco de dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sql,postgres" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres" />
 </p>
 
 ### ☁️ Cloud e infraestrutura
@@ -57,17 +57,11 @@ Possuo experiência na utilização de agentes de inteligência artificial para 
 ### 🏗️ Arquitetura de software e metodologias
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Spec_Driven_Development-73EEAF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-73EEAF?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/SOLID-73EEAF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Domain_Driven_Design-73EEAF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Spec_Driven_Development-73EEAF?style=for-the-badge"/>
 </p>
-
-- Clean Architecture
-- Princípios SOLID
-- Domain-Driven Design (DDD)
-- Spec-Driven Development (SDD)
-- GitHub Spec Kit
 
 ### 🤖 Inteligência artificial e agentes de desenvolvimento
 
