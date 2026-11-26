@@ -36,27 +36,6 @@ Estou constantemente buscando aprimorar meus conhecimentos, explorar novas tecno
   <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" alt="PostgreSQL"/>
   <img src="https://skillicons.dev/icons?i=aws" width="48" title="Amazon Web Services" alt="AWS"/>
 
-  <br><br>
-
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-263238?style=flat-square&logo=dotnet&logoColor=73EEAF" title="ASP.NET MVC" alt="ASP.NET MVC"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-263238?style=flat-square&logo=dotnet&logoColor=73EEAF" title="Entity Framework Core" alt="Entity Framework Core"/>
-  <img src="https://img.shields.io/badge/SQL_Server-263238?style=flat-square" title="SQL Server" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/AWS_SAM-263238?style=flat-square" title="AWS SAM" alt="AWS SAM"/>
-  <img src="https://img.shields.io/badge/AWS_Lambda-263238?style=flat-square&logo=awslambda&logoColor=73EEAF" title="AWS Lambda" alt="AWS Lambda"/>
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Amazon_S3-263238?style=flat-square&logo=amazons3&logoColor=73EEAF" title="Amazon S3" alt="Amazon S3"/>
-  <img src="https://img.shields.io/badge/Amazon_SQS-263238?style=flat-square" title="Amazon SQS" alt="Amazon SQS"/>
-  <img src="https://img.shields.io/badge/Amazon_SNS-263238?style=flat-square" title="Amazon SNS" alt="Amazon SNS"/>
-  <img src="https://img.shields.io/badge/CloudWatch-263238?style=flat-square" title="Amazon CloudWatch" alt="Amazon CloudWatch"/>
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Claude_Code-263238?style=flat-square&logo=claude&logoColor=73EEAF" title="Claude Code" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/OpenAI_Codex-263238?style=flat-square&logo=openai&logoColor=73EEAF" title="OpenAI Codex" alt="OpenAI Codex"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-263238?style=flat-square&logo=githubcopilot&logoColor=73EEAF" title="GitHub Copilot" alt="GitHub Copilot"/>
-
 </div>
 
 ---
